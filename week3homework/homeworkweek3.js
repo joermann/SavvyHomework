@@ -5,8 +5,9 @@ function greetCustomer() {
 let greetCustomer = "Welcome to Honkey Tonk Pizza. We have " loop pizzaToppings " "
 
 function getPizzaOrder(size, toppings, crust,){
-    print 
+    console.log "Cooking Pizza"
 
 }  
 let preparePizza = ['size', 'crust', 'listOfToppings'];
-function  
+function servePizza 
+console.log  

@@ -1,3 +1,0 @@
-let pizzaToppings = ['mozzarella', 'provolone', 'pepperoni', 'onion', 'garlic'];
-function greetCustomer = (console.log "Welcome to Honky Tonk Pizza")(console.log "Our Toppings are" pizzaToppings.);
-function getPizzaOrder = ()
