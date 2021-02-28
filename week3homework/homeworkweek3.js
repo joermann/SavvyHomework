@@ -10,4 +10,14 @@ function getPizzaOrder(size, toppings, crust,){
 }  
 let preparePizza = ['size', 'crust', 'listOfToppings'];
 function servePizza 
-console.log  
+console.log  ('Your pizza is ready. It's a .' getPizzaOrder 
+'pizza. Enjoy.'
+}
+{ 
+pizzaToppings;
+greetCustomer (pizzaToppings);
+getPizzaOrder (greetCustomer);
+preparePizza (getPizzaOrder);
+servePizza (preparePizza);
+
+}
