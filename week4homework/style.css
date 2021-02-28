@@ -14,3 +14,9 @@ h1 {
     color: aqua;
 }
 //<link href="css/main.css" rel="stylesheet" />
+
+/* All elements with class="friendlydog" */
+.spacious {
+  margin: 2em;
+  ul > li 
+}
